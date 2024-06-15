@@ -2,8 +2,6 @@
   <img src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
 </h1>
 
-# Tema da Aula
-
 Turma Online On33 | Semana 03 | 2024 | [Professora Jenifer Plácido](https://www.linkedin.com/in/jenifer-pl%C3%A1cido-00b5611ab/)
 
 # Aula: Condicionais, Operadores Lógicos e Depuração em Python 🐍
