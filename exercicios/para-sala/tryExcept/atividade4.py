@@ -10,5 +10,5 @@ try:
     celsius = float(entrada)
     fahrenheit = celsius * 9/5 + 32
     print(f"A temperatura em Fahrenheit é: {fahrenheit}")
-except ValueError:
+except:
     print("Erro: Entrada inválida. Por favor, digite um número.")

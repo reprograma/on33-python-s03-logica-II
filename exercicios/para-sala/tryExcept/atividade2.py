@@ -9,6 +9,6 @@ entrada = input("Digite um número inteiro: ")
 try:
     numero = int(entrada)
     print(f"Você digitou o número inteiro: {numero}")
-except ValueError:
+except:
     print("Erro: Entrada inválida. Por favor, digite um número inteiro.")
 
