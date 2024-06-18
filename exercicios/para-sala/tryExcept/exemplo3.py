@@ -4,7 +4,7 @@ try:
     denominador = 2
     resultado = numerador / denominador
     print(f"O resultado é {resultado}")
-except ZeroDivisionError:
+except:
     # Se um erro de divisão por zero ocorrer, execute este código
     print("Erro: Não é possível dividir por zero.")
 else:

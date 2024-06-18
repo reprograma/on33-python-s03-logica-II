@@ -10,5 +10,5 @@ denominador = float(input("Digite o denominador: "))
 try:
     resultado = numerador / denominador
     print(f"O resultado da divisão é: {resultado}")
-except ZeroDivisionError:
+except:
     print("Erro: Não é possível dividir por zero.")
