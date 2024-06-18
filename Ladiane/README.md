@@ -1,6 +1,7 @@
 # Atividade de Verificação de Número e Texto 🚀
 
-![Imagem Ilustrativa](https://www.google.com.br/url?sa=i&url=https%3A%2F%2Farymax.org.br%2Finiciativa%2Freprograma%2F&psig=AOvVaw1282O5jrTTeUiysnJC349d&ust=1718767803738000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIC8rYmb5IYDFQAAAAAdAAAAABAd)
+![reprograma-fundos-claros-1](https://github.com/Ladiane-PS/aula01/assets/123704367/9e7296ee-fde7-4c4b-a671-92ddb5c92463)
+
 
 Este código em Python realiza duas tarefas principais: verificar se um número inteiro é par ou ímpar e contar o número de caracteres em um texto.
 
