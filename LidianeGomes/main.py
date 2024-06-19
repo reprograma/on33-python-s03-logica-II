@@ -16,7 +16,7 @@ try:
     if numero == '' or texto == '':
         print('Nenhum número ou letra fornecidos.')
     if numero.isdigit() == False:
-        print('Digite apenas númeos.') 
+        print('Digite apenas números.') 
     if texto.isalpha() == False:
         print('Digite apenas letras.')
     else: 
